@@ -2,11 +2,10 @@
     background-color: #4aaaa5;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
-    color: #ffffff;
 }
 
-.nav-link {
-    color: black;
+#name {
+    color: #ffffff;
 }
 
 body {
